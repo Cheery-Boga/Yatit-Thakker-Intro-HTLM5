@@ -1,0 +1,39 @@
+Here are some I use frequently (you can replace right arrow with left arrow to go in the opposite direction):
+
+1) End of line (opposite: beginning of line): 
+
+(MacOS) CMD + → 
+
+(Windows) Fn + → is most common, but depends on your keyboard. Look for the "End" key
+
+2) Highlight upcoming word (opposite: highlight previous word)
+
+(MacOS) ALT + SHIFT + →
+
+(Windows) CTRL + SHIFT + →
+
+3) Search for a word in the current file / page (works on web browsers and other programs too)
+
+(MacOS) CMD + F
+
+(Windows) CTRL + F
+
+4) Un-indent a line
+
+(MacOS / Windows) SHIFT + TAB
+
+5) Comment multiple lines (can also be used to add a comment to a single line)
+
+(MacOS) CMD + /
+
+(Windows) CTRL + /
+
+6) Search for packages (many but not all text editors support this)
+
+(MacOS) CMD + SHIFT + P
+
+(Windows) CTRL + SHIFT + P
+
+
+
+Welcome to other suggestions for shortcuts you want to know about.
