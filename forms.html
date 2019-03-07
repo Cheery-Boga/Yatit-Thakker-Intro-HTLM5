@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>Intro to Forms</title>
+        
+    
+    </head>
+    
+    <body>
+    
+    <h1>Form Basics</h1>
+        <form onsubmit="alert('Form is being sumbitted')">
+            <input type="text" placeholder="Search" />
+            <input type="submit" value="Search" />
+        
+        </form>
+        <button onclick="console.log('Useless Button was clicked')">Useless Button</button>
+        
+        <h1>Intermediate Forms</h1>
+        <form>
+            <textarea></textarea>
+            <select>
+                <option>Cheddar Cheese</option>
+                <option>Goat Cheese</option>
+                <option>Mozzarella</option>
+            </select>
+            <p>Select Your Favorite Cheese:</p>
+            </form>
+            <input id="cheddar" type="radio" />
+            <label for="cheddar">Cheddar Cheese</label>
+        <br/>
+            <input id="goat" type="radio" />
+            <label for="goat">Goat Cheese</label>
+        <br/>
+            <input id="moz" type="radio" />
+            <label for="moz">Mozzarella</label>
+         <br/>
+            <input id="blue" type="radio" />
+            <label for="blue">Blue Cheese</label>
+        <br />
+        <input type="button" value="Submit" aria-describedby="cheese-submit" />
+        
+        <div id="cheese-submit" style="visibility: hidden">
+            <h2>Description for submit button</h2>
+            <p>Pressing the submit button will confirm your selection for your favorite cheese</p>
+        </div>
+        
+        <img src="https://cdn.pixabay.com/photo/2015/11/16/14/43/cat-1045782_960_720.jpg" height="200" alt="gray cat with bright blue eyes and thin, white wispers."/>
+    
+    </body>
+
+
+
+</html>
